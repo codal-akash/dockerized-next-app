@@ -1,0 +1,11 @@
+# Ignore local dependencies
+node_modules
+
+# Ignore local build output
+.next
+.git
+README.md
+
+# Ignore environment files
+.env.local
+.env.*.local
